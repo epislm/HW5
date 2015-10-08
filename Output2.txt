@@ -1,2 +1,9 @@
-Teppis$ java monteCarlo
-3.141604604
+MacBook-Pro:~ Teppis$ java Demo
+Parent int:5
+ Child copy:5
+5
+5
+
+You cannot change or access private members of another class of a different package through the child class. you can only change or access it when first creating it.
+
+https://stackoverflow.com/questions/22139513/protected-variables-can-be-accessed-within-child-class-or-child-object
