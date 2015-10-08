@@ -1,0 +1,5 @@
+MacBook-Pro:~ Teppis$ java Demo
+Parent int:5
+ Child copy:5
+5
+5
